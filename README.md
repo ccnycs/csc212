@@ -14,8 +14,8 @@ Schedule
 | 6 | Stacks											 | 7 |
 | 7 | Queues						 | 8 |
 | 8 | Recursive Thinking	| 9 |
-| 8-9 | Trees * Tree Projects	| 10-11 |
-| 10 | Miidterm| 6-10 |
+| 8-9 | Trees  and Tree Projects	| 10-11 |
+| 10 | Midterm| 6-10 |
 | 11 | Searching	| 12 |
 | 12 | Sorting    | 13|
 | 13 | Graphs			| 15 |
