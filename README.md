@@ -28,13 +28,12 @@ Schedule
 
 Grading
 ========
-| | |
+| % |  |
 | ------------- | ----------- |
-| 5%  | <discussion software participation> |
-| 25% | Homework |
-| 10% | Final Project |
-| 30% | Midterm 15% each) |
-| 30% | Final |
+| 5 | <discussion software participation> |
+| 25 | Homework |
+| 40 | Midterm (20% each) |
+| 30 | Final |
 
 ### Extra Credit ###
 All the lectures and recitation activities and most of the in class coding samples are at https://github.com/ccnycs/csc212 You can earn extra credit by filing an issue or pull request. The issue/PR can flag/correct an error in the course material, suggest an addition to the course material, or otherwise contribute to the course material (I also like coding samples). 
