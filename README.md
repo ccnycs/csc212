@@ -8,7 +8,7 @@ Schedule
 | 2 | Abstract Data Types and C++ Classes | 2 |
 | 2 | Container Classes										| 3 |
 | 3 | Pointers and Dynamic Arrays			 | 4 |
-| 4 | Midterm			| 1-5 |
+| 4 | Midterm			| 1-4 |
 | 5 | Linked Lists	| 5 |
 | 6 | Software Development with Templates, Iterators, and the STL | 6 |
 | 7 | Stacks											 | 7 |
@@ -22,7 +22,7 @@ Schedule
 
  Required Material 
 =================
-* Textbook: Data Structures & Other Objects Using C++ (any edition)
+* Textbook: Data Structures & Other Objects Using C++, Michael Main and Walter Savitch (any edition)
 * Text Editor: any plaintext editor (I'll be mostly using [VSCode](https://code.visualstudio.com/) in class)
 * Compiler: anything C++17 compatiable (I use g++, which can be installed via MinGW on Windows and XCode on OS/X)
 
