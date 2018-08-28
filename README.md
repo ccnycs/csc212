@@ -8,14 +8,14 @@ Schedule
 | 2 | Abstract Data Types and C++ Classes | 2 |
 | 2 | Container Classes										| 3 |
 | 3 | Pointers and Dynamic Arrays			 | 4 |
-| 4 | Linked Lists							 | 5 |
-| 5 | Midterm | 1-5 |
-| 5 | Software Development with Templates, Iterators, and the STL | 6 |
-| 6 | Stacks											 | 7 |
-| 7 | Queues						 | 8 |
-| 8 | Recursive Thinking	| 9 |
-| 8-9 | Trees  and Tree Projects	| 10-11 |
-| 10 | Midterm| 6-10 |
+| 4 | Midterm			| 1-5 |
+| 5 | Linked Lists	| 5 |
+| 6 | Software Development with Templates, Iterators, and the STL | 6 |
+| 7 | Stacks											 | 7 |
+| 8 | Queues						 | 8 |
+| 9 | Recursive Thinking	| 9 |
+| 9 | Midterm| 5-9 |
+| 10| Trees  and Tree Projects	| 10-11 |
 | 11 | Searching	| 12 |
 | 12 | Sorting    | 13|
 | 13 | Graphs			| 15 |
