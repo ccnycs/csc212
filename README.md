@@ -1,8 +1,8 @@
 Contact/Office Hours
 ====================
-haizenman@ccny.cuny.edu
-NAC 7/311
-Tuesdays 11:30-1:30
+* haizenman@ccny.cuny.edu
+* Tuesdays 11:30-1:30 & by appointment
+* NAC 7/311
 
 Schedule
 ========
@@ -47,8 +47,8 @@ Grading
 ========
 | % |  |
 | ------------- | ----------- |
-| 5 | Piazza |
-| 25 | Homework |
+| 5 | [Piazza](https://piazza.com/ccny.cuny/fall2018/csc21200pr/home) |
+| 25 | [Homework](https://classroom.github.com/classrooms/42761282-cs212-data-structures-pr)|
 | 40 | Midterm (20% each) |
 | 30 | Final |
 
