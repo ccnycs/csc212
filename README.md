@@ -1,24 +1,41 @@
-The syllabus is subject to change 
+Contact/Office Hours
+====================
+haizenman@ccny.cuny.edu
+NAC 7/311
+Tuesdays 11:30-1:30
 
 Schedule
 ========
-| Week | Topics | Chapters 
-|------|--------|----------|
-| 1 | The Phases of Software Development | 1 |
-| 2 | Abstract Data Types and C++ Classes | 2 |
-| 2 | Container Classes										| 3 |
-| 3 | Pointers and Dynamic Arrays			 | 4 |
-| 4 | Midterm			| 1-4 |
-| 5 | Linked Lists	| 5 |
-| 6 | Software Development with Templates, Iterators, and the STL | 6 |
-| 7 | Stacks											 | 7 |
-| 8 | Queues						 | 8 |
-| 9 | Recursive Thinking	| 9 |
-| 9 | Midterm| 5-9 |
-| 10| Trees  and Tree Projects	| 10-11 |
-| 11 | Searching	| 12 |
-| 12 | Sorting    | 13|
-| 13 | Graphs			| 15 |
+| Date | Topics | Chapters | Room |
+|------|--------|----------| ------|
+| 8/30 | The Phases of Software Development | 1 | 5/150|
+| 9/4 | Abstract Data Types and C++ Classes | 2 | 7/106 |
+| 9/6 | Container Classes | 3 | 7/106|
+| 9/13 | Pointers and Dynamic Arrays| 4 | 5/150 |
+| 9/20| Linked Lists	| 5 | 5/150|
+| 9/25  | Programming Project: The String Class | 4 | 7/106 |
+| 9/27  | Programming Project: The Sequence Class with a Linked List | 5 | 7/106 |
+| 10/2  | Midterm review | 1-5 | 7/106 |
+| 10/4  | Midterm | 1-5 | NAC 7/106 |
+| 10/9  | Software Development with Templates, Iterators, and the STL | 6 | 5/106|
+| 10/11 | Programming Projects | 6 | 7/106 |  
+| 10/16 | Stack | 7 | 5/150 | 
+| 10/18 | Programming Projects | 7 | 7/106 |
+| 10/23 | Queues | 8 | 5/150 |
+| 10/25 | Programming Projects | 8 | 7/106 | 
+| 10/30 | Recursive Thinking   | 9 | 7/106 |
+| 11/1 | Midterm review | 6-9 | 7/106 |
+| 11/6 | Midterm | 6-9 | 7/106 
+| 11/8 | Trees | 10 | 5/150 |
+| 11/13 | Tree Projects | 11 | 5/150 |
+| 11/15 | Programming Projects | 11 | 7/106 |
+| 11/20 | Searching | 12 | 5/150 |
+| 11/27 | Sorting | 13 | 5/150 |
+| 11/29 | Programming Projects | 12-13 | 7/106 | 
+| 12/4 | Graphs | 15 | 5/150 |
+| 12/6 | Programming Projects | 15 | 7/106 | 
+| 12/11 | Final Review | 1 - 15 | 7/106 | 
+The schedule is subject to change. 
 
  Required Material 
 =================
@@ -30,7 +47,7 @@ Grading
 ========
 | % |  |
 | ------------- | ----------- |
-| 5 | <discussion software participation> |
+| 5 | Piazza |
 | 25 | Homework |
 | 40 | Midterm (20% each) |
 | 30 | Final |
