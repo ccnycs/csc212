@@ -1,3 +1,7 @@
+Interactive slides
+==================
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ccnycs/csc212/master)
+
 Contact/Office Hours
 ====================
 * haizenman@ccny.cuny.edu
