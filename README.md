@@ -16,7 +16,7 @@ Schedule
 | 9/25  | Programming Project: The String Class | 4 | 7/106 |
 | 9/27  | Programming Project: The Sequence Class with a Linked List | 5 | 7/106 |
 | 10/2  | Midterm review | 1-5 | 7/106 |
-| 10/4  | Midterm | 1-5 | NAC 7/106 |
+| 10/4  | Midterm | 1-5 | 7/106 |
 | 10/9  | Software Development with Templates, Iterators, and the STL | 6 | 5/106|
 | 10/11 | Programming Projects | 6 | 7/106 |  
 | 10/16 | Stack | 7 | 5/150 | 
