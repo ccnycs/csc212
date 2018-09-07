@@ -1,3 +1,6 @@
+#ifndef BAG_H
+#define BAG_H
+
 #include <cstdlib> //provides size_t
 #include <stdexcept> //provides runtime errors
 #include <string>
@@ -24,3 +27,4 @@ class bag{
     };
 // acts on bags but doesn't need access to private attributes
 bag operator +(const bag& b1, const bag& b2);
+#endif
