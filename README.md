@@ -15,7 +15,7 @@ Schedule
 | 8/30 | The Phases of Software Development | 1 | 5/150|
 | 9/4 | Abstract Data Types and C++ Classes | 2 | 7/106 |
 | 9/6 | Container Classes | 3 | 7/106|
-| 9/13 | Pointers and Dynamic Arrays| 4 | 5/150 |
+| 9/13 | Pointers and Dynamic Arrays| 4 | 7/106 |
 | 9/20| Linked Lists	| 5 | 5/150|
 | 9/25  | Programming Project: The String Class | 4 | 7/106 |
 | 9/27  | Programming Project: The Sequence Class with a Linked List | 5 | 7/106 |
