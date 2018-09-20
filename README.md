@@ -5,7 +5,7 @@ Interactive slides
 Contact/Office Hours
 ====================
 * haizenman@ccny.cuny.edu
-* Tuesdays 11:30-1:30 & by appointment
+* Thursdays 11:30-1:30 (also available by appointment)
 * NAC 7/311
 
 Schedule
@@ -16,12 +16,12 @@ Schedule
 | 9/4 | Abstract Data Types and C++ Classes | 2 | 7/106 |
 | 9/6 | Container Classes | 3 | 7/106|
 | 9/13 | Pointers and Dynamic Arrays| 4 | 7/106 |
-| 9/20| Linked Lists	| 5 | 5/150|
+| 9/20| Linked Lists	| 5 | 7/106|
 | 9/25  | Programming Project: The String Class | 4 | 7/106 |
 | 9/27  | Programming Project: The Sequence Class with a Linked List | 5 | 7/106 |
 | 10/2  | Midterm review | 1-5 | 7/106 |
-| 10/4  | Midterm | 1-5 | 7/106 |
-| 10/9  | Software Development with Templates, Iterators, and the STL | 6 | 5/106|
+| 10/4  | Software Development with Templates, Iterators, and the STL | 6 | 7/106|
+| 10/9  | Midterm | 1-5 | 7/106| 
 | 10/11 | Programming Projects | 6 | 7/106 |  
 | 10/16 | Stack | 7 | 5/150 | 
 | 10/18 | Programming Projects | 7 | 7/106 |
