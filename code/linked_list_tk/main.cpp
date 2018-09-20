@@ -1,4 +1,3 @@
-//compile:  g++ -Wall node.h node.cpp main.cpp -o main
 #include <iostream>
 #include "node.h"
 

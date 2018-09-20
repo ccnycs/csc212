@@ -17,8 +17,8 @@ Schedule
 | 9/6 | Container Classes | 3 | 7/106|
 | 9/13 | Pointers and Dynamic Arrays| 4 | 7/106 |
 | 9/20| Linked Lists	| 5 | 7/106|
-| 9/25  | Programming Project: The String Class | 4 | 7/106 |
-| 9/27  | Programming Project: The Sequence Class with a Linked List | 5 | 7/106 |
+| 9/25  | Review/Catch Up: Bag Class, Bag Class with Dynamic Array, Sequence Class | 4 | 7/106 |
+| 9/27  | Programming Project: Bag Class with a Linked List | 5 | 7/106 |
 | 10/2  | Midterm review | 1-5 | 7/106 |
 | 10/4  | Software Development with Templates, Iterators, and the STL | 6 | 7/106|
 | 10/9  | Midterm | 1-5 | 7/106| 

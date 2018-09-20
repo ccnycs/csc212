@@ -8,3 +8,5 @@ dependencies:
  - xtensor-blas
  - notebook
  - jupyterlab
+ - pytest
+ - pexpect
