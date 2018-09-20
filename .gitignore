@@ -31,3 +31,6 @@
 
 # Jupyter artifacts
 .ipynb_checkpoints/
+
+# Vscode artifacts
+.vscode
