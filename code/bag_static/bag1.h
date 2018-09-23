@@ -2,6 +2,8 @@
 // CLASS PROVIDED: bag (part of the namespace main_savitch_3)
 #ifndef BAG_H
 #define BAG_H
+#pragma once
+
 #include <cstdlib>  // Provides size_t
 
 class bag
