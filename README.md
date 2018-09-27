@@ -18,11 +18,11 @@ Schedule
 | 9/13 | Pointers and Dynamic Arrays| 4 | 7/106 |
 | 9/20| Linked Lists	| 5 | 7/106|
 | 9/25  | Review/Catch Up: Bag Class, Bag Class with Dynamic Array, Sequence Class | 4 | 7/106 |
-| 9/27  | Programming Project: Bag Class with a Linked List | 5 | 7/106 |
-| 10/2  | Midterm review | 1-5 | 7/106 |
+| 9/27  | Linked Lists | 5 | 7/106 |
+| 10/2  | Programming Project: Bag Class with a Linked List  | 1-5 | 7/106 |
 | 10/4  | Software Development with Templates, Iterators, and the STL | 6 | 7/106|
-| 10/9  | Midterm | 1-5 | 7/106| 
-| 10/11 | Programming Projects | 6 | 7/106 |  
+| 10/8 | Programming Projects | 6 | 7/106 |  
+| 10/11  | Midterm | 1-5 | 7/106| 
 | 10/16 | Stack | 7 | 5/150 | 
 | 10/18 | Programming Projects | 7 | 7/106 |
 | 10/23 | Queues | 8 | 5/150 |
