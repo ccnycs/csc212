@@ -11,9 +11,18 @@
 using namespace std;
 
 
-size_t list_length(const node* head_ptr){}
+size_t list_length(const node* head_ptr){
+    size_t length = 0; 
+    for(const node* cursor = head_ptr; cursor!=NULL; cursor = cursor->link()){
+        length++;
+    }
+    return length;
+}
 
-void list_head_insert(node*& head_ptr, const node::value_type& entry){}
+void list_head_insert(node*& head_ptr, const node::value_type& entry){
+    node *new_node = new node(entry, head_ptr);
+    head_ptr = new_node;
+}
 
 void list_insert(node* previous_ptr, const node::value_type& entry) {}
 
