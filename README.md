@@ -20,23 +20,23 @@ Schedule
 | 9/25  | Review/Catch Up: Bag Class, Bag Class with Dynamic Array, Sequence Class | 4 | 7/106 |
 | 9/27  | Linked Lists | 5 | 7/106 |
 | 10/2  | Programming Project: Bag Class with a Linked List  | 1-5 | 7/106 |
-| 10/4  | Software Development with Templates, Iterators, and the STL | 6 | 7/106|
-| 10/8 | Programming Projects | 6 | 7/106 |  
-| 10/11  | Midterm | 1-5 | 7/106| 
-| 10/16 | Stack | 7 | 5/150 | 
-| 10/18 | Programming Projects | 7 | 7/106 |
-| 10/23 | Queues | 8 | 5/150 |
+| 10/4 | Programming Project: Bag Class with a Linked List  | 1-5 | 7/106 |
+| 10/9  | Software Development with Templates, Iterators, and the STL | 6 | 7/106|
+| 10/11 | Stack | 7 | 7/106 |  
+| 10/16 | Programming Projects | 7 | 7/106 |
+| 10/18  | Midterm | 1-5 | 7/106| 
+| 10/23 | Queues | 8 | 7/106 |
 | 10/25 | Programming Projects | 8 | 7/106 | 
 | 10/30 | Recursive Thinking   | 9 | 7/106 |
 | 11/1 | Midterm review | 6-9 | 7/106 |
 | 11/6 | Midterm | 6-9 | 7/106 
-| 11/8 | Trees | 10 | 5/150 |
-| 11/13 | Tree Projects | 11 | 5/150 |
+| 11/8 | Trees | 10 | 7/106 |
+| 11/13 | Tree Projects | 11 | 7/106|
 | 11/15 | Programming Projects | 11 | 7/106 |
-| 11/20 | Searching | 12 | 5/150 |
-| 11/27 | Sorting | 13 | 5/150 |
+| 11/20 | Searching | 12 | 7/106 |
+| 11/27 | Sorting | 13 | 7/106 |
 | 11/29 | Programming Projects | 12-13 | 7/106 | 
-| 12/4 | Graphs | 15 | 5/150 |
+| 12/4 | Graphs | 15 | 7/106 |
 | 12/6 | Programming Projects | 15 | 7/106 | 
 | 12/11 | Final Review | 1 - 15 | 7/106 | 
 The schedule is subject to change. 
@@ -62,13 +62,14 @@ All the lectures and recitation activities and most of the in class coding sampl
 Policies
 ========
 ### Email ###
-Unless I tell you otherwise, email should only be used to set up an in person meeting, inform me about needed accommodations, or discuss confidential material like grades.  Any other emails may not receive a response. All coursework related communications should be done through <insert discussion software here>, which allows anonymous posting. If you are uncomfortable with this policy, please speak to me.
+Unless I tell you otherwise, email should only be used to set up an in person meeting, inform me about needed accommodations, or discuss confidential material like grades.  Coursework related communications, such as questions on the lecture or homework, should be done through piazza, which allows anonymous posting. If you are uncomfortable with this policy, please speak to me.
 
 
 ### Homework ###
-* Homework must be submitted at https://classroom.github.com/classrooms/42761282-cs212-data-structures-pr
+* Homework must be submitted via github classroom. 
 * Homework submitted through other methods without prior approval  will not be graded.
-* Questions about the homework should be asked on <choose discussion format> using the provided [format](hwq_fmt.md). 
+* Questions about the homework should be asked on [piazza](
+piazza.com/ccny.cuny/fall2018/csc21200pr/home) using the provided [format](hwq_fmt.md). 
 * Emailed questions and questions not in that format may be ignored. 
 
 ### Attendence ###
