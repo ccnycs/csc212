@@ -22,4 +22,12 @@ int main(){
     list_head_insert(head_ptr, 67.9);
     std::cout<<"entry: "<<head_ptr->data()<<std::endl;
     std::cout<<"s: "<<s<<" head link: "<<head_ptr->link()<<std::endl;
+    int a = 5;
+    node *j;
+    j = new node(a);
+    int *b;
+    b = &a;
+    *b = 6;
+    std::cout<<"j: "<<j->data()<<std::endl;
+    std::cout<<"a: "<<a<<std::endl;
 }
