@@ -24,15 +24,15 @@ Schedule
 | 10/9  | Software Development with Templates, Iterators, and the STL | 6 | 7/106|
 | 10/11 | Stack | 7 | 7/106 |  
 | 10/16 | Programming Projects | 7 | 7/106 |
-| 10/18  | Midterm | 1-5 | 7/106| 
-| 10/23 | Queues | 8 | 7/106 |
-| 10/25 | Programming Projects | 8 | 7/106 | 
+| 10/18 | Queues | 8 | 7/106 |
+| 10/23 | Programming Projects | 8 | 7/106 | 
+| 10/25  | Midterm | 1-5 | 7/106| 
 | 10/30 | Recursive Thinking   | 9 | 7/106 |
-| 11/1 | Midterm review | 6-9 | 7/106 |
-| 11/6 | Midterm | 6-9 | 7/106 
-| 11/8 | Trees | 10 | 7/106 |
-| 11/13 | Tree Projects | 11 | 7/106|
-| 11/15 | Programming Projects | 11 | 7/106 |
+| 11/1| Trees | 10 | 7/106 |
+| 11/6| Tree Projects | 11 | 7/106|
+| 11/8| Programming Projects | 11 | 7/106 |
+| 11/13| Midterm review | 6-9 | 7/106 |
+| 11/15| Midterm | 6-9 | 7/106 
 | 11/20 | Searching | 12 | 7/106 |
 | 11/27 | Sorting | 13 | 7/106 |
 | 11/29 | Programming Projects | 12-13 | 7/106 | 
