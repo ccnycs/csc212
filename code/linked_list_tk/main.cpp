@@ -30,4 +30,17 @@ int main(){
     *b = 6;
     std::cout<<"j: "<<j->data()<<std::endl;
     std::cout<<"a: "<<a<<std::endl;
+
+
 }
+
+    head_ptr = NULL;
+    node *p = new node;
+    head_ptr = p;
+    double values[10] = {0, 1, 2, 3, 3, 4, 4, 5, 6, 7};
+
+    for (int i = 0; i<10; i++){ 
+        list_insert(values[i]);
+    }
+    percentile(head_ptr,4);
+    shift_element(head_ptr, 3, 2);
