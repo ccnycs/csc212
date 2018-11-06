@@ -34,9 +34,8 @@ Schedule
 | 11/13|Tree Projects | 11 | 7/106 |
 | 11/15| Tree Programming | 11 | 7/106 |
 | 11/20 | Midterm | 6-9| 7/106|
-| 11/20 | Searching | 12 | 7/106 |
-| 11/27 | Sorting | 13 | 7/106 |
-| 11/29 | Programming Projects | 12-13 | 7/106 | 
+| 11/27 | Searching | 12 | 7/106 |
+| 11/29 | Sorting | 13 | 7/106 | 
 | 12/4 | Graphs | 15 | 7/106 |
 | 12/6 | Programming Projects | 15 | 7/106 | 
 | 12/11 | Final Review | 1 - 15 | 7/106 | 
