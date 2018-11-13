@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1541700344 "c:/Users/haize/Projects/csc212/slides/figures/chap10/btree/btree.tex" "btree.pdf" "btree" 1541700346
-  "btree.aux" 1541700345 8 a94a2480d3289e625eea47cd1b285758 ""
-  "btree.tex" 1541700336 1397 350b1d6cb4fd02b589a8475995253dbc ""
-  "c:/Users/haize/Projects/csc212/slides/figures/chap10/btree/btree.tex" 1541700336 1397 350b1d6cb4fd02b589a8475995253dbc ""
+["pdflatex"] 1542130286 "c:/Users/haize/Projects/csc212/slides/figures/chap10/btree/btree.tex" "btree.pdf" "btree" 1542130286
+  "btree.aux" 1542130286 9 a94a2480d3289e625eea47cd1b285758 ""
+  "btree.tex" 1542130277 1393 b23752d0a946e4d3d07f49c1d11a34cd ""
+  "c:/Users/haize/Projects/csc212/slides/figures/chap10/btree/btree.tex" 1542130277 1393 b23752d0a946e4d3d07f49c1d11a34cd ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1540262740 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1540262011 1316 b636689f1933f24d1294acdf6041daaa ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm" 1540262011 1272 e2d13f0df30bf3ad990bb9d028e37f34 ""
@@ -101,5 +101,5 @@
   "c:/texlive/2018/texmf.cnf" 1540265575 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
   "btree.log"
-  "btree.aux"
   "btree.pdf"
+  "btree.aux"
