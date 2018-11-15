@@ -1,0 +1,35 @@
+\documentclass[18pt,xcolor=table]{beamer}
+\usepackage{tikz}
+\usepackage{verbatim}
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength{\PreviewBorder}{10pt}
+\usetikzlibrary{arrows}
+\tikzset{
+  treenode/.style = {align=center, inner sep=0pt, text centered,
+    font=\sffamily},
+  arn/.style = {treenode, circle, black, font=\sffamily\bfseries, draw=black,
+    fill=white, text width=1.5em, very thick},
+  arn_new/.style = {treenode, circle, black, font=\sffamily\bfseries, draw=black,
+    fill=lightgray, text width=1.5em, very thick},
+}
+\begin{document}
+\begin{tikzpicture}[->,>=stealth',level/.style={sibling distance = 5cm/#1,
+  level distance = 1.5cm}] 
+\node [arn] {45}
+    child{ node [arn] {35} 
+            child{ node [arn] {27} 
+              child{ node [arn] {19}}
+              child{ node [arn] {5}}
+            }
+            child{node [arn_new] {42}
+              child{node [arn]{21}}
+            }                            
+    }
+    child{ node [arn] {23}
+            child{ node [arn] {22}}
+            child{ node [arn] {4}}
+		}
+; 
+\end{tikzpicture}
+\end{document}
