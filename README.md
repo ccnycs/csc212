@@ -33,11 +33,11 @@ Schedule
 | 11/8| Trees | 10 | 7/106 |
 | 11/13|Trees | 11 | 7/106 |
 | 11/15| Tree Projects: Heaps& Priority Queues | 11 | 7/106 |
-| 11/20 | Searching | 12 | 7/106 |
-| 11/27 | Sorting | 13 | 7/106 | 
+| 11/20 | Tree Projects: B-Trees | 12 | 7/106 |
+| 11/27 | Searching/ Sorting | 13 | 7/106 | 
 | 11/29 | Midterm | 6 - 9 | 7/106 |
 | 12/4 | Graphs | 15 | 7/106 |
-| 12/6 | Programming Projects | 15 | 7/106 | 
+| 12/6 | Graphs | 15 | 7/106 | 
 | 12/11 | Final Review | 1 - 15 | 7/106 | 
 The schedule is subject to change. 
 
