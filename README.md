@@ -5,56 +5,50 @@ Interactive slides
 Contact/Office Hours
 ====================
 * haizenman@ccny.cuny.edu
-* Thursdays 11:30-1:30 (also available by appointment)
+* Wednesdays 12:00-2:00 (also available by appointment)
 * NAC 7/311
 
+Grading
+========
+| Points |  |
+| ------------- | ----------- |
+| 5 | [Piazza](https://piazza.com/ccny.cuny/spring2019/cs21200/home) |
+| 15 | Reading Self Assessments |
+| 40 | Homework - Submitted via Github Classroom |
+| 30 | Exams (10pts + 10pts + 10pts) |
+| 10 | Final project | 
 Schedule
 ========
-| Date | Topics | Chapters | Room |
+| Date | Topics | Chapters | Homework |
 |------|--------|----------| ------|
-| 8/30 | The Phases of Software Development | 1 | 5/150|
-| 9/4 | Abstract Data Types and C++ Classes | 2 | 7/106 |
-| 9/6 | Container Classes | 3 | 7/106|
-| 9/13 | Pointers and Dynamic Arrays| 4 | 7/106 |
-| 9/20| Linked Lists	| 5 | 7/106|
-| 9/25  | Review/Catch Up: Bag Class, Bag Class with Dynamic Array, Sequence Class | 4 | 7/106 |
-| 9/27  | Linked Lists | 5 | 7/106 |
-| 10/2  | Programming Project: Bag Class with a Linked List  | 1-5 | 7/106 |
-| 10/4 | Programming Project: Bag Class with a Linked List  | 1-5 | 7/106 |
-| 10/9  | Software Development with Templates, Iterators, and the STL | 6 | 7/106|
-| 10/11 | Stack | 7 | 7/106 |  
-| 10/16 | Programming Projects | 7 | 7/106 |
-| 10/18 | Queues | 8 | 7/106 |
-| 10/23 | Midterm Review |  | 7/106 | 
-| 10/25  | Midterm | 1-5 | 7/106| 
-| 10/25 | Queues | 8 | 7/106 | 
-| 11/1 | Recursive Thinking   | 9 | 7/106 |
-| 11/6 | ??? | 9| 7/106 |
-| 11/8| Trees | 10 | 7/106 |
-| 11/13|Trees | 11 | 7/106 |
-| 11/15| Tree Projects: Heaps& Priority Queues | 11 | 7/106 |
-| 11/20 | Tree Projects: B-Trees | 12 | 7/106 |
-| 11/27 | Searching/ Sorting | 13 | 7/106 | 
-| 11/29 | Midterm | 6 - 9 | 7/106 |
-| 12/4 | Graphs | 15 | 7/106 |
-| 12/6 | Graphs | 15 | 7/106 | 
-| 12/11 | Final Review | 1 - 15 | 7/106 | 
+| 1/28 | The Phases of Software Development | 1 | |
+| 1/30 | Abstract Data Types and C++ Classes | 2 | |
+| 2/4-2/6 | Container Classes | 3 | |
+| 2/11 | Pointers and Dynamic Arrays| 4 |  |
+| 2/13-2/20| Linked Lists	| 5 | |
+| 2/25 | __Exam 1__ | 1-5 | |
+| 2/27 | Software Development with Templates, Iterators, and the STL | 6 | |
+| 3/4-3/6 | Stacks | 7 | |  
+| 3/11-3/13 | Queues | 8 | |
+| 3/18-3/20 | Recursive Thinking   | 9 |  |
+| 3/25 | __Exam 2__ | 6 - 8 |
+| 3/27 - 4/1| Trees | 10 | |
+| 4/3 - 4/10| Tree Projects | 11 | |
+| 4/15 | __Exam 3__ | 9 - 11 | 
+| 4/17 | Searching: Hashing | 13 | |
+| 4/29 | Sorting: Heap | 14 | | 
+| 5/1-5/6 | Graphs | 15 | |
+| 5/8-5/13| Final Project Lab | 13-15 | |
+
 The schedule is subject to change. 
 
- Required Material 
+Required Material 
 =================
 * Textbook: Data Structures & Other Objects Using C++, Michael Main and Walter Savitch (any edition)
 * Text Editor: any plaintext editor (I'll be mostly using [VSCode](https://code.visualstudio.com/) in class)
 * Compiler: anything C++17 compatiable (I use g++, which can be installed via MinGW on Windows and XCode on OS/X)
 
-Grading
-========
-| % |  |
-| ------------- | ----------- |
-| 5 | [Piazza](https://piazza.com/ccny.cuny/fall2018/csc21200pr/home) |
-| 25 | [Homework](https://classroom.github.com/classrooms/42761282-cs212-data-structures-pr)|
-| 40 | Midterm (20% each) |
-| 30 | Final |
+
 
 ### Extra Credit ###
 All the lectures and recitation activities and most of the in class coding samples are at https://github.com/ccnycs/csc212 You can earn extra credit by filing an issue or pull request. The issue/PR can flag/correct an error in the course material, suggest an addition to the course material, or otherwise contribute to the course material (I also like coding samples). 
@@ -62,7 +56,9 @@ All the lectures and recitation activities and most of the in class coding sampl
 Policies
 ========
 ### Email ###
-Unless I tell you otherwise, email should only be used to set up an in person meeting, inform me about needed accommodations, or discuss confidential material like grades.  Coursework related communications, such as questions on the lecture or homework, should be done through piazza, which allows anonymous posting. If you are uncomfortable with this policy, please speak to me.
+Unless I tell you otherwise, email should only be used to set up an in person meeting, inform me about accommodations, or discuss confidential material like grades.  
+
+Coursework related communications, such as questions on the lecture or homework, should be done through piazza, which allows anonymous posting. Please email me about grades. If you are uncomfortable with this policy, please speak to me.
 
 
 ### Homework ###
@@ -73,9 +69,9 @@ piazza.com/ccny.cuny/fall2018/csc21200pr/home) using the provided [format](hwq_f
 * Emailed questions and questions not in that format may be ignored. 
 
 ### Attendence ###
-* Missing the midterm or final (unexcused absences) will result in an F for the course.
+* Missing any exam (unexcused absences) will result in an F for the course.
+* Missing the final project presentation will result in an F for the course. 
 * Send an email at least two weeks in advance about excused absences or exam conflicts.
-* Provide documentation for any unexpected absence.
 
 ### Accessibility ###
 * Have the accessibility center provide documentation for any accommodations ASAP
