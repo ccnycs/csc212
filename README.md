@@ -20,7 +20,7 @@ Grading
 
 Schedule
 ========
-| Date | Topics | Chapters | Homework |
+| Date | Topics | Readings | Homework |
 |------|--------|----------| ------|
 | 1/28 | The Phases of Software Development | 1 | https://classroom.github.com/a/bI_dHoR0|
 | 1/30-2/4 | Abstract Data Types and C++ Classes | 2 |https://classroom.github.com/a/l-K9eG91 |
