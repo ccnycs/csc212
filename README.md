@@ -17,20 +17,21 @@ Grading
 | 40 | Homework - Submitted via Github Classroom |
 | 30 | Exams (10pts + 10pts + 10pts) |
 | 10 | Final project | 
+
 Schedule
 ========
 | Date | Topics | Chapters | Homework |
 |------|--------|----------| ------|
-| 1/28 | The Phases of Software Development | 1 | |
-| 1/30 | Abstract Data Types and C++ Classes | 2 | |
-| 2/4-2/6 | Container Classes | 3 | |
-| 2/11 | Pointers and Dynamic Arrays| 4 |  |
-| 2/13-2/20| Linked Lists	| 5 | |
-| 2/25 | __Exam 1__ | 1-5 | |
-| 2/27 | Software Development with Templates, Iterators, and the STL | 6 | |
-| 3/4-3/6 | Stacks | 7 | |  
-| 3/11-3/13 | Queues | 8 | |
-| 3/18-3/20 | Recursive Thinking   | 9 |  |
+| 1/28 | The Phases of Software Development | 1 | https://classroom.github.com/a/bI_dHoR0|
+| 1/30-2/4 | Abstract Data Types and C++ Classes | 2 |https://classroom.github.com/a/l-K9eG91 |
+| 2/6-2/11 | Container Classes | 3 | |
+| 2/13 | Pointers and Dynamic Arrays| 4 |  |
+| 2/18-2/25| Linked Lists	| 5 | |
+| 2/27 | __Exam 1__ | 1-5 | |
+| 3/4 | Software Development with Templates, Iterators, and the STL | 6 | |
+| 3/6-3/11 | Stacks | 7 | |  
+| 3/13-3/18 | Queues | 8 | |
+| 3/20 | Recursive Thinking   | 9 |  |
 | 3/25 | __Exam 2__ | 6 - 8 |
 | 3/27 - 4/1| Trees | 10 | |
 | 4/3 - 4/10| Tree Projects | 11 | |
