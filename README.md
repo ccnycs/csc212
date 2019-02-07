@@ -5,7 +5,7 @@ Interactive slides
 Contact/Office Hours
 ====================
 * haizenman@ccny.cuny.edu
-* Wednesdays 12:00-2:00 (also available by appointment)
+* Tuesday 12:00-2:00, Thursday 12:00-2:00 (also available by appointment)
 * NAC 7/311
 
 Grading
