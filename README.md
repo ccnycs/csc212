@@ -26,18 +26,20 @@ Schedule
 | 1/30-2/4 | Abstract Data Types and C++ Classes | 2 |https://classroom.github.com/a/l-K9eG91 |
 | 2/6-2/11 | Container Classes | 3 | |
 | 2/13 | Pointers and Dynamic Arrays| 4 |  |
-| 2/18-2/25| Linked Lists	| 5 | |
-| 2/27 | __Exam 1__ | 1-5 | |
+| 2/18 | * President's Day* (college closed)| | | |
+| 2/20-2/27| Linked Lists	| 5 | |
 | 3/4 | Software Development with Templates, Iterators, and the STL | 6 | |
-| 3/6-3/11 | Stacks | 7 | |  
-| 3/13-3/18 | Queues | 8 | |
-| 3/20 | Recursive Thinking   | 9 |  |
-| 3/25 | __Exam 2__ | 6 - 8 |
-| 3/27 - 4/1| Trees | 10 | |
-| 4/3 - 4/10| Tree Projects | 11 | |
-| 4/15 | __Exam 3__ | 9 - 11 | 
-| 4/17 | Searching: Hashing | 13 | |
-| 4/29 | Sorting: Heap | 14 | | 
+| 3/6 | __Exam 1__ | 1-5 | |
+| 3/11-3/13 | Stacks | 7 | |  
+| 3/18-3/20 | Queues | 8 | |
+| 3/25 | Recursive Thinking   | 9 | 
+| 3/27 | __Exam 2__ | 6 - 8 |
+| 4/1 -4/3| Trees | 10 | |
+| 4/8 - 4/10| Tree Projects | 11 | |
+| 4/15 | Searching: Hashing | 13 | |
+| 4/17 | Sorting: Heap | 14 | | 
+| 4/19-4/28| *spring recess*| | |
+| 4/29 | __Exam 3__ | 9 - 11 | 
 | 5/1-5/6 | Graphs | 15 | |
 | 5/8-5/13| Final Project Lab | 13-15 | |
 
