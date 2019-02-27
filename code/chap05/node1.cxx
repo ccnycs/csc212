@@ -11,7 +11,12 @@ using namespace std;
 
 namespace main_savitch_5{
     std::size_t list_length(const node* head_ptr){};
-    void list_head_insert(node*& head_ptr, const node::value_type& entry){}; 
+    void list_head_insert(node*& head_ptr, const node::value_type& entry){
+	    node* another = new node();
+            another->data = 12.1;
+            another->next = head_ptr; 
+            head_ptr = another;
+    }
     void list_insert(node* previous_ptr, const node::value_type& entry){};  
     node* list_search(node* head_ptr, const node::value_type& target){};
     const node* list_search
