@@ -1,5 +1,4 @@
-
-[![Gitter](https://badges.gitter.im/ccnycs/community.svg)](https://gitter.im/ccnycs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/ccnycs/csc212.svg)](https://gitter.im/ccnycs/csc212?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Interactive slides
 ==================
