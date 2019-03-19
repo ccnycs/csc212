@@ -10,9 +10,18 @@
 using namespace std;
 
 namespace main_savitch_5{
-    std::size_t list_length(const node* head_ptr){};
-    void list_head_insert(node*& head_ptr, const node::value_type& entry){}; 
-    void list_insert(node* previous_ptr, const node::value_type& entry){};  
+    std::size_t list_length(const node* head_ptr){
+		size_t count = 0;
+		for(const node* cursor=head_ptr; cursor!=NULL; cursor=cursor->link()){
+			count++;
+		}
+		return count;
+	};
+    void list_head_insert(node*& head_ptr, const node::value_type& entry){
+		
+	}; 
+    
+	void list_insert(node* previous_ptr, const node::value_type& entry){};  
     node* list_search(node* head_ptr, const node::value_type& target){};
     const node* list_search
 	(const node* head_ptr, const node::value_type& target){};

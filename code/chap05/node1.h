@@ -147,7 +147,7 @@ namespace main_savitch_5
 	// Constant member function to retrieve the current data:
 	value_type data( ) const { return data_field; }
 
-	// Two slightly different member functions to retreive
+	// Two slightly different member functions to retrieve
 	// the current link:
 	const node* link( ) const { return link_field; }
     	node* link( )             { return link_field; }

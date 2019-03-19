@@ -30,9 +30,9 @@ Schedule
 | 2/13 | Pointers and Dynamic Arrays| 4 |  |
 | 2/18 | * President's Day* (college closed)| | | |
 | 2/20-2/27| Linked Lists	| 5 | |
-| 3/4 | Software Development with Templates, Iterators, and the STL | 6 | |
-| 3/6 | __Exam 1__ | 1-5 | |
-| 3/11-3/13 | Stacks | 7 | |  
+| 3/6 | Software Development with Templates, Iterators, and the STL | 6 | |
+| 3/11 | __Exam 1__ | 1-5 | |
+| 3/13-3/18 | Stacks | 7 | |  
 | 3/18-3/20 | Queues | 8 | |
 | 3/25 | Recursive Thinking   | 9 | 
 | 3/27 | __Exam 2__ | 6 - 8 |
