@@ -6,7 +6,7 @@ Extra Credit: Recursion
 
 #include <iostream>
 
-void recursive_tabs(int n, int counts = 1){
+void recursive_tabs(int n, int counts = 0){
     if(n==counts){
         return;
     }
