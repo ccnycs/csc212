@@ -14,7 +14,7 @@ Grading
 ========
 | Points |  |
 | ------------- | ----------- |
-| 5 | [Piazza](https://piazza.com/ccny.cuny/spring2019/cs21200/home) |
+| 5 | Discussion/[Piazza](https://piazza.com/ccny.cuny/spring2019/cs21200/home) |
 | 15 | Reading Self Assessments |
 | 40 | Homework - Submitted via Github Classroom |
 | 30 | Exams (10pts + 10pts + 10pts) |
@@ -34,10 +34,10 @@ Schedule
 | 3/11 | __Exam 1__ | 1-5 | |
 | 3/13-3/18 | Stacks | 7 | |  
 | 3/18-3/20 | Queues | 8 | |
-| 3/25 | Recursive Thinking   | 9 | 
-| 3/27 | __Exam 2__ | 6 - 8 |
+| 3/25=3/27 | Recursive Thinking   | 9 | 
 | 4/1 -4/3| Trees | 10 | |
-| 4/8 - 4/10| Tree Projects | 11 | |
+| 4/8  | __Exam 2__ | 7-8 | |
+| 4/10| Tree Projects | 11 | |
 | 4/15 | Searching: Hashing | 13 | |
 | 4/17 | Sorting: Heap | 14 | | 
 | 4/19-4/28| *spring recess*| | |
