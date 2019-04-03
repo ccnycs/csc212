@@ -1,0 +1,56 @@
+% Red-black tree
+% Author: Madit
+%%\documentclass{article}
+\documentclass[preview]{standalone}
+\usepackage{tikz}
+%%%<
+\usepackage{verbatim}
+\usepackage[active,tightpage]{preview}
+\usepackage{tikz-qtree}
+
+\PreviewEnvironment{tikzpicture}
+\setlength{\PreviewBorder}{10pt}
+\begin{comment}
+Adapated from http://www.texample.net/tikz/examples/red-black-tree/
+\end{comment}
+
+\usetikzlibrary{arrows}
+
+\definecolor{rpurple}{RGB}{200,191,231}
+\definecolor{mblue}{RGB}{153,217,234}
+\definecolor{lyellow}{RGB}{239,228,176}
+
+\tikzset{
+  treenode/.style = {align=center, text centered,
+    font=\sffamily,  minimum size=2em},
+  root/.style = {treenode, circle, black, draw=black, fill=rpurple},
+  middle/.style = {treenode, circle, black, draw=black, fill=mblue},
+  leaf/.style = {treenode, circle, black, draw=black, fill=lyellow}
+}
+
+\begin{document}
+\begin{tikzpicture}[grow=down]
+%\tikzset{level 1/.style={level distance=40pt, sibling distance=60}}
+%\tikzset{level 2/.style={level distance=40pt, sibling distance=50}}
+%\tikzset{level 2/.style={level distance=40pt, sibling distance=60}}
+
+{\Tree [.\node[root]{15}; 
+           [.\node[middle]{17};
+                [.\node[middle]{9};
+                  [.\node[leaf]{13};]
+                  [.\node[leaf]{33};]
+                ]
+                [.\node[middle]{53};
+                 [.\node[leaf]{16};]
+                 \edge[style={draw=none}]; \node[style={draw=none}]{};
+                ]
+           ]
+           [.\node[middle]{11};
+                [.\node[leaf]{4};]
+                [.\node[leaf]{41};]
+           ]
+        ] 
+]}
+
+\end{tikzpicture}
+\end{document}
