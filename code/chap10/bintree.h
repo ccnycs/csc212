@@ -103,6 +103,7 @@
 #define BINTREE_H
 #include <cstdlib>  // Provides NULL and size_t
 
+
 namespace main_savitch_10
 {
 

@@ -1,0 +1,7 @@
+namespace main_savitch_chapter10{
+     template <class Item>
+     binary_tree<Item>::binary_tree( ){
+
+     }
+
+}

@@ -115,6 +115,8 @@ namespace main_savitch_chapter10
         bool has_left_child( ) const;
         bool has_right_child( ) const;    
     private:
+        main_savitch_10::binary_tree_node<Item>* root_ptr;
+        size_t depth;
         // Private member variables to be specified by the student.
         // My own implementation has a root pointer and a pointer to
         // the "current" node, plus a member variable to keep track of
