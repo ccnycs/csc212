@@ -1,5 +1,6 @@
 #include <iostream>
 #include "node1.h"
+#include "node1.cxx"
 
 using namespace main_savitch_5;
 int main(){
